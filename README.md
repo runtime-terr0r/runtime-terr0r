@@ -1,0 +1,2 @@
+- Hi there 👋, my name is Viktor
+- 🌱 I’m currently learning API development
